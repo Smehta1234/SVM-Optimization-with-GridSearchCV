@@ -1,0 +1,6 @@
+Sample #,Best Accuracy,Best SVM Parameters
+S1,0.6843333333333333,"{'C': 1, 'kernel': 'linear'}"
+S2,0.6893333333333334,"{'C': 1, 'kernel': 'linear'}"
+S3,0.6906666666666667,"{'C': 1, 'kernel': 'linear'}"
+S4,0.6673333333333333,"{'C': 1, 'kernel': 'linear'}"
+S5,0.6863333333333334,"{'C': 1, 'kernel': 'linear'}"
